@@ -1,2 +1,2 @@
 # techshuttle
-Website for Tech Shuttle
+Space themed website for Tech Shuttle.
